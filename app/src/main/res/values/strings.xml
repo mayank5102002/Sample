@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <dimen name="car_height">159dp</dimen>
+</resources>
